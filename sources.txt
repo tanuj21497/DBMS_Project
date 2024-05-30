@@ -1,4 +1,4 @@
-For Autocomplete we will use react-google-places-autocomplete : API Key: AIzaSyCPmTYeh2JNjVR3UIUzwH_D4h65z0ExDKQ
+For Autocomplete we will use react-google-places-autocomplete : API Key:
 
 react-google-maps
 
